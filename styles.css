@@ -39,9 +39,28 @@ img {
 
 .bttn {
 	background-color: yellow;
-	width: 100%;
+	width: 100px;
 	height: 50px;
+	margin-left: 25px ;
 }
 .btttn {
 	color: crimson ;
+}
+.container {
+	width: 300px;
+    margin-left: 25px;
+    height: 130px;
+	border: 1px black solid;
+}
+.container2 {
+	width: 300px;
+    margin-left: 25px;
+    height: 130px;
+	border: 1px black solid;
+}
+.container3 {
+	width: 300px;
+    margin-left: 25px;
+    height: 130px;
+	border: 1px black solid;
 }
